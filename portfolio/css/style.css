@@ -1,0 +1,89 @@
+/*************Tag*****************/
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+  color: #ff5757;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: semi-condensed;
+}
+img{
+  height: 400px;
+  width: 400px;
+}
+label{
+  font-weight: bold;
+}
+
+/*************Color*****************/
+.bg-saf{
+  background: #ff5757;
+}
+.color-grey{
+  color: #545454;
+}
+.color-white{
+  color: white;
+}
+.bg-grey-light{
+  background: #f2f2f2;
+}
+
+/*************padding*****************/
+.pad{
+  padding: 7% 15%;
+}
+.pad2{
+  padding: 17% 19%;
+}
+.pad3{
+  padding: 3%;
+}
+
+/*************Text-algin*****************/
+.ttl{
+  text-align: left;
+}
+
+/*************index & Profile*****************/
+.index-cap{
+  font-size: 30px;
+}
+.profile{
+  height: 300px;
+  width: 300px;
+  margin-top: 20%;
+  box-shadow: 0 0 5px grey;
+}
+
+/*************Contact & footer*****************/
+.form-control{
+  border: 2px solid #ff5757;
+  border-radius: 7px;
+}
+.form-control:focus{
+  color: #ff5757;
+  outline: none;
+  border-color: #ff5757;
+  box-shadow: 0 0 0 1px #ff5757;
+}
+.btn{
+  background: white;
+  color: #ff5757;
+  border: 1px solid #ff5757;
+  box-shadow: 0 0 0 1px #ff5757;
+}
+.btn:focus{
+  outline: none;
+  background: #ff5757;
+  color: white;
+  border: 1px solid #ff5757;
+  box-shadow: 0 0 0 1px #ff5757;
+}
+.social-media{
+  padding-top: 7%;
+}
